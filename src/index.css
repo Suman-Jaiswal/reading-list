@@ -18,11 +18,14 @@ code {
   width: 90%;
   max-width: 700px;
   color: #eee;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 .navbar{
   padding: 10px 20px;
   text-align: center;
   background: #6d3d6d;
+  border-radius: 20px;
 }
 .navbar h1{
   margin: 10px 0;
